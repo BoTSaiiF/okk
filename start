@@ -1,0 +1,3 @@
+#!/bin/bash
+python3 ../setup/updater.py ../requirements.txt requirements.txt
+python3 k.py
